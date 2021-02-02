@@ -1,0 +1,16 @@
+c:\users\fahd fazal\documents\visual studio 2013\Projects\startuppage\startuppage\bin\Debug\startuppage.exe.config
+c:\users\fahd fazal\documents\visual studio 2013\Projects\startuppage\startuppage\bin\Debug\startuppage.exe
+c:\users\fahd fazal\documents\visual studio 2013\Projects\startuppage\startuppage\bin\Debug\startuppage.pdb
+c:\users\fahd fazal\documents\visual studio 2013\Projects\startuppage\startuppage\obj\Debug\startuppage.login.resources
+c:\users\fahd fazal\documents\visual studio 2013\Projects\startuppage\startuppage\obj\Debug\startuppage.Properties.Resources.resources
+c:\users\fahd fazal\documents\visual studio 2013\Projects\startuppage\startuppage\obj\Debug\startuppage.csproj.GenerateResource.Cache
+c:\users\fahd fazal\documents\visual studio 2013\Projects\startuppage\startuppage\obj\Debug\startuppage.exe
+c:\users\fahd fazal\documents\visual studio 2013\Projects\startuppage\startuppage\obj\Debug\startuppage.pdb
+c:\users\fahd fazal\documents\visual studio 2013\Projects\startuppage\startuppage\obj\Debug\startuppage.math_game.resources
+C:\Users\fahd fazal\Documents\Visual Studio 2013\Projects\startuppage\startuppage\obj\Debug\startuppage.math_game2.resources
+C:\Users\fahd fazal\Desktop\comeptition\startuppage\startuppage\bin\Debug\startuppage.exe.config
+C:\Users\fahd fazal\Desktop\comeptition\startuppage\startuppage\obj\Debug\startuppage.exe
+C:\Users\fahd fazal\Desktop\comeptition\startuppage\startuppage\obj\Debug\startuppage.pdb
+F:\competition\startuppage\startuppage\bin\Debug\startuppage.exe.config
+F:\competition\startuppage\startuppage\obj\Debug\startuppage.exe
+F:\competition\startuppage\startuppage\obj\Debug\startuppage.pdb
